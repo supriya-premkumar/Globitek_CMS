@@ -1,6 +1,7 @@
 --
 -- Table structure for table `salespeople`
 --
+USE globitek;
 
 DROP TABLE IF EXISTS `salespeople`;
 CREATE TABLE `salespeople` (
